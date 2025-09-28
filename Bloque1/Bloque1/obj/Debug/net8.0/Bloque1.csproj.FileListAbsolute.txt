@@ -1,0 +1,14 @@
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\bin\Debug\net8.0\Bloque1.exe
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\bin\Debug\net8.0\Bloque1.deps.json
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\bin\Debug\net8.0\Bloque1.runtimeconfig.json
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\bin\Debug\net8.0\Bloque1.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\bin\Debug\net8.0\Bloque1.pdb
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\obj\Debug\net8.0\Bloque1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\obj\Debug\net8.0\Bloque1.AssemblyInfoInputs.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\obj\Debug\net8.0\Bloque1.AssemblyInfo.cs
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\obj\Debug\net8.0\Bloque1.csproj.CoreCompileInputs.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\obj\Debug\net8.0\Bloque1.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\obj\Debug\net8.0\refint\Bloque1.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\obj\Debug\net8.0\Bloque1.pdb
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\obj\Debug\net8.0\Bloque1.genruntimeconfig.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque1\Bloque1\obj\Debug\net8.0\ref\Bloque1.dll

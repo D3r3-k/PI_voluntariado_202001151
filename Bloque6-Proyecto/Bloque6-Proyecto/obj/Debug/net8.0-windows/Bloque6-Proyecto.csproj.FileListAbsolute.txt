@@ -1,0 +1,16 @@
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\bin\Debug\net8.0-windows\Bloque6-Proyecto.exe
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\bin\Debug\net8.0-windows\Bloque6-Proyecto.deps.json
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\bin\Debug\net8.0-windows\Bloque6-Proyecto.runtimeconfig.json
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\bin\Debug\net8.0-windows\Bloque6-Proyecto.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\bin\Debug\net8.0-windows\Bloque6-Proyecto.pdb
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\obj\Debug\net8.0-windows\Bloque6_Proyecto.Form1.resources
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\obj\Debug\net8.0-windows\Bloque6-Proyecto.csproj.GenerateResource.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\obj\Debug\net8.0-windows\Bloque6-Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\obj\Debug\net8.0-windows\Bloque6-Proyecto.AssemblyInfoInputs.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\obj\Debug\net8.0-windows\Bloque6-Proyecto.AssemblyInfo.cs
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\obj\Debug\net8.0-windows\Bloque6-Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\obj\Debug\net8.0-windows\Bloque6-Proyecto.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\obj\Debug\net8.0-windows\refint\Bloque6-Proyecto.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\obj\Debug\net8.0-windows\Bloque6-Proyecto.pdb
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\obj\Debug\net8.0-windows\Bloque6-Proyecto.genruntimeconfig.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque6-Proyecto\Bloque6-Proyecto\obj\Debug\net8.0-windows\ref\Bloque6-Proyecto.dll

@@ -1,0 +1,14 @@
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\bin\Debug\net8.0\Bloque3-Proyecto.exe
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\bin\Debug\net8.0\Bloque3-Proyecto.deps.json
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\bin\Debug\net8.0\Bloque3-Proyecto.runtimeconfig.json
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\bin\Debug\net8.0\Bloque3-Proyecto.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\bin\Debug\net8.0\Bloque3-Proyecto.pdb
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\obj\Debug\net8.0\Bloque3-Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\obj\Debug\net8.0\Bloque3-Proyecto.AssemblyInfoInputs.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\obj\Debug\net8.0\Bloque3-Proyecto.AssemblyInfo.cs
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\obj\Debug\net8.0\Bloque3-Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\obj\Debug\net8.0\Bloque3-Proyecto.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\obj\Debug\net8.0\refint\Bloque3-Proyecto.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\obj\Debug\net8.0\Bloque3-Proyecto.pdb
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\obj\Debug\net8.0\Bloque3-Proyecto.genruntimeconfig.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque3-Proyecto\Bloque3-Proyecto\obj\Debug\net8.0\ref\Bloque3-Proyecto.dll

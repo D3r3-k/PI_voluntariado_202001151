@@ -1,0 +1,16 @@
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\bin\Debug\net8.0-windows\Bloque4-Practica.exe
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\bin\Debug\net8.0-windows\Bloque4-Practica.deps.json
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\bin\Debug\net8.0-windows\Bloque4-Practica.runtimeconfig.json
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\bin\Debug\net8.0-windows\Bloque4-Practica.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\bin\Debug\net8.0-windows\Bloque4-Practica.pdb
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\obj\Debug\net8.0-windows\Bloque4_Practica.Principal.resources
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\obj\Debug\net8.0-windows\Bloque4-Practica.csproj.GenerateResource.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\obj\Debug\net8.0-windows\Bloque4-Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\obj\Debug\net8.0-windows\Bloque4-Practica.AssemblyInfoInputs.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\obj\Debug\net8.0-windows\Bloque4-Practica.AssemblyInfo.cs
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\obj\Debug\net8.0-windows\Bloque4-Practica.csproj.CoreCompileInputs.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\obj\Debug\net8.0-windows\Bloque4-Practica.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\obj\Debug\net8.0-windows\refint\Bloque4-Practica.dll
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\obj\Debug\net8.0-windows\Bloque4-Practica.pdb
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\obj\Debug\net8.0-windows\Bloque4-Practica.genruntimeconfig.cache
+C:\Users\D3r3k\Desktop\Practicas\Bloque4-Practica\Bloque4-Practica\obj\Debug\net8.0-windows\ref\Bloque4-Practica.dll
